@@ -1,0 +1,15 @@
+package agenda;
+
+public class Contato {
+	private String name;
+	private String surname;
+	private String number;
+	
+	Contato(String name, String Surname, String number) {
+		this.name = name;
+		this.name = surname;
+		this.name = number;
+	}
+	
+	
+}
